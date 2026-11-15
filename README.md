@@ -59,7 +59,7 @@ I also compared the observed peaks with regional climate-model runs (WRF, 39 sta
 
 The `scripts/` folder has the scripts I used to prepare the data, fit the mixtures and make the figures. They show how the results were produced. The scripts in `scripts/` run in order, 01 to 05, from the repo root. They need the ECCC hourly station files in `data/`, which aren't included.
 
-The kernel-density and mode functions were later cleaned up and tested in a separate repository: [Statistical-method-near-0C](https://github.com/MehdiBoudaoud/Statistical-method-near-0C).
+I later cleaned up and tested the kernel-density and mode functions, and built an interactive app on them, as a separate project.
 
 ## Tools
 
