@@ -1,0 +1,23 @@
+archive/
+data/
+output/
+*.RData
+*.rds
+.Rhistory
+.Rproj.user/
+.RDataTmp
+
+# local environment placeholders
+.bash_profile
+.bashrc
+.gitconfig
+.gitmodules
+.idea
+.mcp.json
+.profile
+.ripgreprc
+.vscode/
+.vscode
+.zprofile
+.zshrc
+.claude/
